@@ -70,10 +70,6 @@ Contributions are welcome! Feel free to:
 - Suggest new features
 - Submit pull requests
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 👤 Author
 
 **Diego Yonoff Molina**
